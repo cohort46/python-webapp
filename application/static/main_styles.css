@@ -1,5 +1,5 @@
 body {
-    background-color: linen;
+    background-color: pink;
     margin: 20px;
     font-family: Cambria, Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -23,7 +23,7 @@ footer {
    text-align: center;
 }
 
-.joke { background-color: cadetblue;
+.joke { background-color: olivedrab;
         padding: 1%;
         color: white;
         font-family: Verdana, serif;
@@ -33,7 +33,7 @@ footer {
 }
 
 .button {
-  background-color: cyan;
+  background-color: orchid;
   border: none;
   color: white;
   padding: 15px 32px;
